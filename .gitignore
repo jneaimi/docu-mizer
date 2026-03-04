@@ -1,0 +1,9 @@
+# Rendered outputs
+*.png
+
+# Generated diagrams (user working files)
+# *.excalidraw
+
+# OS
+.DS_Store
+.claude/settings.local.json

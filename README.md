@@ -32,6 +32,10 @@ uv run playwright install chromium
 
 Or just tell Claude Code: *"Set up the Excalidraw diagram skill renderer."*
 
+### Recommended: VS Code + Excalidraw Extension
+
+Install the [Excalidraw extension for VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) to open and edit `.excalidraw` files directly in your editor. This lets you visually inspect, tweak, and present diagrams without leaving your IDE.
+
 ## Usage
 
 Ask Claude Code to create a diagram:
